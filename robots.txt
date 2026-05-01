@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agandreww91.github.io/reference-oz5w3f/sitemap.xml
